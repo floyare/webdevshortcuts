@@ -42,7 +42,7 @@ const Navbar = () => {
         <div className="landing__container">
           <div className="landing__box">
             <div className="landing__object">
-              <img src="/public/icon.png"></img>
+              <img src="icon.png"></img>
             </div>
             <div className="landing__object">
               <h1>WebDevShortcuts</h1>
