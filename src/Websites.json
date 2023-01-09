@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "name": "fffuel.co",
+    "url": "https://fffuel.co/",
+    "category": "uxui",
+    "description": "fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds"
+  },
+  {
+    "id": 2,
+    "name": "fontshare.com",
+    "url": "https://www.fontshare.com/",
+    "category": "uxui",
+    "description": "Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. "
+  },
+  {
+    "id": 3,
+    "name": "www.fontpair.co",
+    "url": "https://www.fontpair.co/",
+    "category": "uxui",
+    "description": "Free fonts and font pairings to use for your next design project"
+  },
+  {
+    "id": 4,
+    "name": "coolors.co",
+    "url": "https://coolors.co/",
+    "category": "colors",
+    "description": "Generate or browse beautiful color combinations for your designs."
+  },
+  {
+    "id": 5,
+    "name": "mockups-design.com",
+    "url": "https://mockups-design.com/",
+    "category": "assets",
+    "description": "Free mockups"
+  },
+  {
+    "id": 6,
+    "name": "cssgr.id",
+    "url": "https://cssgr.id/",
+    "category": "uxui",
+    "description": "An interactive CSS Grid code tool and generator"
+  },
+  {
+    "id": 7,
+    "name": "neumorphism.io",
+    "url": "https://neumorphism.io/",
+    "category": "uxui",
+    "description": "Generate Soft-UI CSS code"
+  },
+  {
+    "id": 8,
+    "name": "color.review",
+    "url": "https://color.review/",
+    "category": "colors",
+    "description": " Colors that look and work great for everyone"
+  },
+  {
+    "id": 9,
+    "name": "patternpad.com",
+    "url": "https://patternpad.com/",
+    "category": "uxui",
+    "description": "Design beautiful patterns from endless variations"
+  },
+  {
+    "id": 10,
+    "name": "chartscss.org",
+    "url": "https://chartscss.org/",
+    "category": "programming",
+    "description": "CSS data visualization framework"
+  },
+  {
+    "id": 11,
+    "name": "alphredo.app",
+    "url": "https://alphredo.app/",
+    "category": "colors",
+    "description": "Alpha colors generator"
+  },
+  {
+    "id": 12,
+    "name": "humbleicons.com",
+    "url": "https://humbleicons.com/",
+    "category": "assets",
+    "description": "A pack of 235 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free."
+  },
+  {
+    "id": 13,
+    "name": "mycolor.space",
+    "url": "https://mycolor.space/",
+    "category": "colors",
+    "description": "Never waste Hours on finding the perfect Color Palette again!"
+  },
+  {
+    "id": 14,
+    "name": "whirl.netlify.app",
+    "url": "https://whirl.netlify.app/",
+    "category": "uxui",
+    "description": "CSS loading animations with minimal effort!"
+  },
+  {
+    "id": 15,
+    "name": "kushagra.dev",
+    "url": "https://kushagra.dev/lab/hint/",
+    "category": "programming",
+    "description": "A pure CSS tooltip library for your lovely websites"
+  },
+  {
+    "id": 16,
+    "name": "vertex.im",
+    "url": "https://vertex.im/",
+    "category": "assets",
+    "description": "Free 3D Icons, Fully Customizable Online"
+  },
+  {
+    "id": 17,
+    "name": "useanimations.com",
+    "url": "https://useanimations.com/",
+    "category": "programming",
+    "description": "Animated icons in Lottie Framework for immediate implementation to your apps or websites."
+  },
+  {
+    "id": 18,
+    "name": "freebiesbug.com",
+    "url": "https://freebiesbug.com/",
+    "category": "uxui",
+    "description": "Get free high quality design resources. Choose from an extensive selection of fonts, graphic and HTML templates, icons, mockups, and more!"
+  },
+  {
+    "id": 19,
+    "name": "www.siteinspire.com",
+    "url": "https://www.siteinspire.com/",
+    "category": "assets",
+    "description": "Web Design Inspiration"
+  },
+  {
+    "id": 20,
+    "name": "colorsandfonts.com",
+    "url": "https://www.colorsandfonts.com/",
+    "category": "uxui",
+    "description": "Color and typography resources and inspiration for Web Developers and Digital Designers."
+  },
+  {
+    "id": 21,
+    "name": "palette.site",
+    "url": "https://palette.site/",
+    "category": "colors",
+    "description": "A browser extension to generate comprehensive palettes. A must-have tool for designers and frontend developers. Free colour scheme extraction"
+  },
+  {
+    "id": 22,
+    "name": "picular.co",
+    "url": "https://picular.co/",
+    "category": "colors",
+    "description": "Picular is a rocket fast primary color generator using Google's image search."
+  },
+  {
+    "id": 23,
+    "name": "namify.tech",
+    "url": "https://namify.tech/",
+    "category": "assets",
+    "description": "Build a memorable online brand easily with this business name generator"
+  },
+  {
+    "id": 24,
+    "name": "picsum.photos",
+    "url": "https://picsum.photos/",
+    "category": "assets",
+    "description": "The Lorem Ipsum for photos."
+  },
+  {
+    "id": 25,
+    "name": "animista.net",
+    "url": "https://animista.net/",
+    "category": "programming",
+    "description": "On-Demand CSS Animations Library"
+  },
+  {
+    "id": 26,
+    "name": "cssgradient.io",
+    "url": "https://cssgradient.io/",
+    "category": "colors",
+    "description": "CSS Gradient generator"
+  },
+  {
+    "id": 27,
+    "name": "9elements.github.io",
+    "url": "https://9elements.github.io/fancy-border-radius/",
+    "category": "uxui",
+    "description": "Fancy border radius generator"
+  },
+  {
+    "id": 28,
+    "name": "fontjoy.com",
+    "url": "https://fontjoy.com/",
+    "category": "uxui",
+    "description": "Generate font combinations with deep learning"
+  },
+  {
+    "id": 29,
+    "name": "superdesigner.co",
+    "url": "https://superdesigner.co/",
+    "category": "uxui",
+    "description": "Create beautiful Designs in a few clicks"
+  },
+  {
+    "id": 30,
+    "name": "tabbied.com",
+    "url": "https://tabbied.com/",
+    "category": "uxui",
+    "description": "Doodle with generated patterns"
+  },
+  {
+    "id": 31,
+    "name": "iconify.design",
+    "url": "https://iconify.design/",
+    "category": "assets",
+    "description": "All popular icon sets, one framework."
+  },
+  {
+    "id": 32,
+    "name": "zzetao.github.io/awesome-github-profile",
+    "url": "https://zzetao.github.io/awesome-github-profile/",
+    "category": "github",
+    "description": "Awesome GitHub Profile READMEs"
+  },
+  {
+    "id": 33,
+    "name": "www.profileme.dev",
+    "url": "https://www.profileme.dev/",
+    "category": "github",
+    "description": "Create an amazing GitHub profile in minutes"
+  },
+  {
+    "id": 34,
+    "name": "gitexplorer.com",
+    "url": "https://gitexplorer.com/",
+    "category": "github",
+    "description": "Git Command Explorer"
+  },
+  {
+    "id": 35,
+    "name": "glyphsearch.com",
+    "url": "https://glyphsearch.com/",
+    "category": "assets",
+    "description": "Search for icons from Font Awesome, Foundation, Glyphicons, IcoMoon, Ionicons, Material Design, and Octicons"
+  },
+  {
+    "id": 36,
+    "name": "shadows.brumm.af",
+    "url": "https://shadows.brumm.af/",
+    "category": "uxui",
+    "description": "Make a smooth shadow, friend."
+  },
+  {
+    "id": 37,
+    "name": "getwaves.io",
+    "url": "https://getwaves.io/",
+    "category": "uxui",
+    "description": "Make some waves!"
+  },
+  {
+    "id": 38,
+    "name": "waitanimate.wstone.uk",
+    "url": "https://waitanimate.wstone.uk/",
+    "category": "programming",
+    "description": "WAIT! Animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript."
+  },
+  {
+    "id": 39,
+    "name": "colorhunt.co",
+    "url": "https://colorhunt.co/",
+    "category": "colors",
+    "description": "Color Palettes for Designers and Artists"
+  },
+  {
+    "id": 40,
+    "name": "openpeeps.com",
+    "url": "https://openpeeps.com/",
+    "category": "assets",
+    "description": "A hand-drawn illustration library."
+  },
+  {
+    "id": 41,
+    "name": "thenounproject.com",
+    "url": "https://thenounproject.com/",
+    "category": "assets",
+    "description": "Icons and Photos For Everything"
+  },
+  {
+    "id": 42,
+    "name": "animatedbackgrounds.me",
+    "url": "https://animatedbackgrounds.me/",
+    "category": "assets",
+    "description": "Animated Backgrounds"
+  },
+  {
+    "id": 43,
+    "name": "simpleicons.org",
+    "url": "https://simpleicons.org/",
+    "category": "assets",
+    "description": "Simple Icons 2419 Free SVG icons for popular brands"
+  }
+]
